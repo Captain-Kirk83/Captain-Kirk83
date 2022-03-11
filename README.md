@@ -4,7 +4,7 @@
 - I'm currently working to improve my skills as a developer
 - I'm currently levelling up my skills with frontend frameworks as well as ORMs
 - I'm looking to work on big projects to boost my learning of how team projects run 
-- 2021 Goals: Start my career as a Developer and start my blog.
+- 2022 Goals: Start my career as a Developer and start my blog.
 - My hobbies: I love to edit videos and watching anime.
 
 ### Connect with me:
